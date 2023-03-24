@@ -1,2 +1,10 @@
-print("hello")
-
+print(17 / 2 * 3 + 2)
+print("x=" +str((17 / 2) * 3 + 2))
+print(2 + 17 / 2 * 3)
+print("x=" +str(2 + (17 / 2) * 3))
+print(19 % 4 + 15 / 2 * 3)
+print("x=" +str((19 % 4) + 15 / 2 * 3))
+print((15 + 6) - 10 * 4)
+print("x=" +str(15 + 6 - (10 * 4)))
+print(17 / 2 % 2 * 3**3)
+print("x=" +str(17 / 2 % 2 * (3**3)))
