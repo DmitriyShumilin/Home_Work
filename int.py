@@ -1,0 +1,8 @@
+x = int(input('Введите число: '))
+if x%2==0:print('chetnoe')
+else:print('nechetnoe')
+x = int(input('Введите целое число:'))
+if x > 0 and x <= 90: print('I chetvert')
+elif x > 90 and x <= 180: print('II chetvert')
+elif x > 180 and x <= 270: print('III chetvert')
+elif x > 270 and x <= 360: print('IV chetvert')
